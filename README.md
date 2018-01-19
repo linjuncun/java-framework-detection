@@ -1,4 +1,4 @@
-# javaframework-detection
+# javaframework-detect
 Java项目框架检测
 
 代码运行环境：jdk 1.8 与 maven
